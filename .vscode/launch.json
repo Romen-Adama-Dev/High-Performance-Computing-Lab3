@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/radama/Downloads/Lab3_RACR",
+      "program": "/Users/radama/Downloads/Lab3_RACR/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
